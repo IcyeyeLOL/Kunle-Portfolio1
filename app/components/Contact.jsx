@@ -25,7 +25,7 @@ const Contact = () => {
       setResult(data.message);
     }}
   return (
-    <div id=""className='w-full px-[12%] py-10 scroll-mt-20 bg-[url("/footer-bg-color.png")] bg-no-repeat bg-center bg-[length:90%_auto]' >
+    <div id="contact"className='w-full px-[12%] py-10 scroll-mt-20 bg-[url("/footer-bg-color.png")] bg-no-repeat bg-center bg-[length:90%_auto]' >
         <h2 className='text-center mb-2 text-5xl font-Ovo '>Connect with me</h2>
 
         <h2 className='text-center  text-2xl font-Ovo '>Get in touch</h2>

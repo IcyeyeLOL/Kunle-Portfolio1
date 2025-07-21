@@ -40,12 +40,18 @@ import backend from './backend.png';
 import frontend from './front-end.png';
 import machine from './machine.png';
 import devops from './devops.png';
+import github from './github.png';
+import leetcode from './leetcode.png';
+import linkedin from './linkedin.png';
 
 
 export const assets = {
     backend,
     machine,
     devops,
+    github,
+    leetcode,
+    linkedin,
 
 
     frontend,
