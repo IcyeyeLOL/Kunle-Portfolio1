@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@netlify/plugin-nextjs": "^5.11.6",
     "@tailwindcss/postcss": "^4",
     "@types/node": "24.0.14",
     "@types/react": "19.1.8",
