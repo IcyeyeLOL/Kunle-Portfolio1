@@ -101,21 +101,25 @@ export const workData = [
         title: 'Wrestle Bet',
         description: 'Full Stack Application',
         bgImage: '/images/work-1.png',
+        projectUrl: 'https://claude.ai/chat/22f4ad09-21fa-4c70-a644-d970f87e1713',
     },
     {
         title: 'Spring Boot App',
         description: 'Back-end Application',
         bgImage: '/images/work-2.png',
+        projectUrl: 'https://github.com/YourUsername/spring-boot-app'
     },
     {
         title: 'Realtime Serverless GraphQL API',
         description: 'Cloud & DevOps Service',
         bgImage: '/images/work-3.png',
+        projectUrl: 'https://github.com/YourUsername/spring-boot-app'
     },
     {
         title: 'Sales Forecasting & Data Enrichment',
         description: 'Machine Learning',
         bgImage: '/images/work-4.png',
+        projectUrl: 'https://github.com/IcyeyeLOL/Forecasting-Prediction-ML/blob/main/Sales.py'
     },
 ]
 
