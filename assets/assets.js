@@ -104,7 +104,7 @@ export const workData = [
         projectUrl: 'https://claude.ai/chat/22f4ad09-21fa-4c70-a644-d970f87e1713',
     },
     {
-        title: 'Spring Boot App',
+        title: 'Task Tracker',
         description: 'Back-end Application',
         bgImage: '/images/work-2.png',
         projectUrl: 'https://github.com/YourUsername/spring-boot-app'
