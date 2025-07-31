@@ -101,7 +101,7 @@ export const workData = [
         title: 'Wrestle Bet',
         description: 'Full Stack Application',
         bgImage: '/images/work-1.png',
-        projectUrl: 'https://claude.ai/chat/22f4ad09-21fa-4c70-a644-d970f87e1713',
+        projectUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSeF6oR7nhJM8lBy98eXVI9vixQiKGlUVSrcl8sjjad6emo6uA/viewform?usp=header',
     },
     {
         title: 'Task Tracker',
