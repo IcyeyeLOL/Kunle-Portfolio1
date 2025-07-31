@@ -11,10 +11,10 @@ const Header = () => {
         </div>
         <h3 className='flex items-end gap-2 texl-xl md:text-2xl mb-3 font-Ovo'>Hi! I'm Kunle Ajani <Image src={assets.hand_icon} alt="" className='w-6'/> </h3>
         <h1 className='text-3xl sm:text-6xl lg:text-[66px] font-ovo'>
-            Full Stack Developler based in Maryland.
+            Full Stack Developer based in Maryland.
         </h1>
         <p className='max-w-2xl mx-auto font-Ovo'>
-            With years of freelance experincing and hands on work,
+            With years of freelance experience and hands on work,
             looking to step my foot into the door.
 
         </p>

@@ -110,7 +110,7 @@ export const workData = [
         projectUrl: 'https://github.com/IcyeyeLOL/Task-Tracker/blob/master/src/test/java/com/devtiro/tasks/domain/entities/Task.java'
     },
     {
-        title: 'Realtime Serverless GraphQL API',
+        title: 'Data Visualization & Analytics',
         description: 'Cloud & DevOps Service',
         bgImage: '/images/work-3.png',
         projectUrl: 'https://github.com/YourUsername/spring-boot-app'
