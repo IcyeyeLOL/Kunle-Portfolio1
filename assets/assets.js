@@ -113,7 +113,7 @@ export const workData = [
         title: 'Data Visualization & Analytics',
         description: 'Cloud & DevOps Service',
         bgImage: '/images/work-3.png',
-        projectUrl: <a href="SpreadSheet"></a>
+        projectUrl: "/SpreadSheet"
     },
     {
         title: 'Sales Forecasting & Data Enrichment',
