@@ -101,7 +101,7 @@ export const workData = [
         title: 'Wrestle Bet',
         description: 'Full Stack Application',
         bgImage: '/images/work-1.png',
-        projectUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSeF6oR7nhJM8lBy98eXVI9vixQiKGlUVSrcl8sjjad6emo6uA/viewform?usp=header',
+        projectUrl: 'https://github.com/IcyeyeLOL/WrestleBet',
     },
     {
         title: 'Task Tracker',
